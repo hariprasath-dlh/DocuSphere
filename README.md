@@ -107,7 +107,7 @@ Unlike traditional RAG systems, DocuSphere understands user intent, handles spel
 - Sentence Transformers for embeddings
 
 ---
-
+```
 ## 📂 Project Structure
 
 DocuSphere/
@@ -126,3 +126,4 @@ DocuSphere/
 ├── package.json
 └── README.md
 
+```
